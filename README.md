@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arannyak Roy</h1>
+![image](https://github.com/RoyGitt/RoyGitt/assets/103433198/aaf5d14d-2e27-43fe-9cb7-0508821f5c0c)<h1 align="center">Hi 👋, I'm Arannyak Roy</h1>
 <h3 align="center">Dedicated Fullstack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 
 - 🌱 I’m currently learning **React native, DevOps**
