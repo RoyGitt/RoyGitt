@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://royaran.netlify.app/](https://royaran.netlify.app/)
 
-- 📝 I regularly write blogs once a year [blogify-lao6.vercel.app](blogify-lao6.vercel.app)
-
 - 💬 Ask me about **react.js, next.js, node.js, express.js, mongoDb**
 
 - 📫 How to reach me **officialroy02@gmail.com**
