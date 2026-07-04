@@ -37,16 +37,7 @@ I like problems where I own the whole path — from *"user can't do X"* to *"shi
 
 ---
 
-## 📌 Selected Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| **Blogify** | Fullstack blog with server actions, route protection, GitHub login | Next.js 14, NextAuth v5 |
-| **Asylum** | Real-estate platform with listings CRUD, Google auth, search filters | MERN |
-| **3D Portfolio** | 3D-rendered models with smooth motion and a clean aesthetic | Three.js, motion.dev |
-| **ShareBuzz** | Image-sharing social app with auth, posts, comments, saves | Next.js, Tailwind |
-
----
 
 ## 📊 GitHub Stats
 
