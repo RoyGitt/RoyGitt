@@ -41,7 +41,7 @@ I like problems where I own the whole path — from *"user can't do X"* to *"shi
 
 ## 📊 GitHub Stats
 
-![Arannyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyGitt&show_icons=true&theme=tokyonight&hide_border=true)
+![Arannyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyGitt&show_icons=false&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyGitt&layout=compact&theme=tokyonight&hide_border=true)
 
