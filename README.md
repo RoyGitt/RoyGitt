@@ -1,18 +1,67 @@
-<h1 align="center">Hi 👋, I'm Arannyak Roy</h1>
-<h3 align="center">Dedicated Fullstack Developer</h3>
+# Hi, I'm Arannyak Roy 👋
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+### Frontend Engineer · End-to-End Product Ownership · Next.js / TypeScript
 
+I'm a software engineer with 3 years of hands-on development, building **production web apps end to end**. I work mostly in **Next.js, TypeScript, and React**, and reach into **Node, Prisma, and Postgres** when a feature needs it. I care as much about the **auth, observability, and release flow** as I do about the interface itself.
 
-- 🌱 I’m currently learning **React native, DevOps**
+📍 Kolkata, India &nbsp;•&nbsp; 📧 officialroy02@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://royaran.netlify.app/](https://royaran.netlify.app/)
+---
 
-- 💬 Ask me about **react.js, next.js, node.js, express.js, mongoDb**
+## 🚀 What I'm working on
 
-- 📫 How to reach me **officialroy02@gmail.com**
+I currently lead frontend work on **Stitched Health** — a clinician-only decision-support platform used by pharmaceutical companies, built in Next.js and TypeScript. A few things I've done there:
 
-- 📄 Know about my experiences [https://moccasin-phebe-27.tiiny.site/](https://moccasin-phebe-27.tiiny.site/)
+- 🎯 **Owned 900+ tracked issues** (400+ bugs, 460+ tasks/stories), with 800+ resolved to QA-approved or deployed
+- 🔀 **Reviewed and merged 1,500+ pull requests** across 2,700+ commits, running the staging-to-production release flow and coordinating hotfixes
+- 🔐 **Built SSO/JWT auth** — SAML redirects, refresh-token flow, in-app webview detection, and token activation
+- 📉 **Cut production crash noise** with null-safe storage wrappers and chunk-load recovery, surfaced through Sentry
+- 🧹 **Burned down 2,000+ code-quality issues** (SonarQube) to keep the codebase maintainable
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Before Stitched Health I shipped a **multi-role CRM** and several **AI chatbot & advisory platforms**.
+
+I like problems where I own the whole path — from *"user can't do X"* to *"shipped and verified."*
+
+---
+
+## 🛠️ Tech I work with
+
+**Core**
+`Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Framer Motion` · `Three.js`
+
+**Backend & Data**
+`Node.js` · `Express` · `Prisma` · `Zod` · `PostgreSQL` · `MySQL` · `MongoDB`
+
+**Practice**
+`SSO / JWT auth` · `Sentry observability` · `Performance tuning` · `CI & release management` · `React Native`
+
+---
+
+## 📌 Selected Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **Blogify** | Fullstack blog with server actions, route protection, GitHub login | Next.js 14, NextAuth v5 |
+| **Asylum** | Real-estate platform with listings CRUD, Google auth, search filters | MERN |
+| **3D Portfolio** | 3D-rendered models with smooth motion and a clean aesthetic | Three.js, motion.dev |
+| **ShareBuzz** | Image-sharing social app with auth, posts, comments, saves | Next.js, Tailwind |
+
+---
+
+## 📊 GitHub Stats
+
+![Arannyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyGitt&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyGitt&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=RoyGitt&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's connect
+
+I'm always happy to talk to people building interesting things.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officialroy02@gmail.com)
